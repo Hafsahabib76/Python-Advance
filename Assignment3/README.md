@@ -7,7 +7,7 @@ Create a list of KFC burger items with their names and prices. At a minimum, inc
 <li>Take the user's order, including the burger name and quantity.</li><br>
 <li>Calculate the total cost of the order.</li><br>
 <li>Provide a summary of the order before confirming.</li><br>
-<li>Confirm the order and thank the user.<br>
+<li>Confirm the order and thank the user.</li><br>
 <li>Offer payment options or generate an order receipt.</li><br>
 
 ![Conversation with Chatbot - menu display](image.png)

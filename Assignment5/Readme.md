@@ -4,4 +4,4 @@
 <b>Assignment:</b></br>
 Design or develop a simple calculator using the Python tkinter library. Your calculator must have at least four functions, including addition, multiplication, subtraction, and division.</br></br>
 <b>Output:</b></br>
-![Calculator using Python Tkinter Library](calculator.JPG)
+![Calculator using Python Tkinter Library](calculator.png)

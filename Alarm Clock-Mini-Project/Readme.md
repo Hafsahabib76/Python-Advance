@@ -11,4 +11,4 @@ The Voice Alarm Clock project is a mini app created using Python and the Tkinter
 <li>Alarm Ringing: Once the alarm is set, the application waits until the specified time and then plays the selected alarm tone.</li> 
 </ul></br>
 <b>Alarm Clock - GUI</b></br>
-![Alarm Clock](AlarmClock.png)
+![Human Model using Python Turtle Library](AlarmClock.png)

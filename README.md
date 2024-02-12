@@ -16,7 +16,6 @@ This course has been divided into three primary modules, namely: </br>
 <h2>Course Outline</h2>
 The Main course outline for this course is as follows:
 <ol>
-  <li></li>
 <li>Object-Oriented Programming (OOP) in Python</li>
 <li>Advanced OOP techniques in Python</li>
 <li>File operations and error handling</li>
